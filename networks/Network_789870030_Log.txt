@@ -1,0 +1,27 @@
+LOG___NETWORK_789870030
+
+NETWORK STATS:
+
+   num_neurons_in_res:     1000
+   num_input_neurons:     100
+   num_output_neurons:     100
+   res_con_density:     0.12
+   input_output_conn_density:     1.0
+   res_exc_w_dist:     [-2.2693809328654693, 0.9324801781418899]
+   res_inh_w_dist:     [-2.2693809328654693, 0.9324801781418899]
+   inp_w_max:     3.225
+   out_w_max:     3.225
+   num_res_exc_neurons:     800
+   num_res_inh_neurons:     200
+   a_vec:     [0.02, 0.1, 0.02, 0.02]
+   b_vec:     [0.2, 0.2, 0.2, 0.2]
+   c_vec:     [-65.0, -65.0, -65.0, -65.0]
+   d_vec:     [8.0, 2.0, 8.0, 8.0]
+   mean_exc:     0.1598306
+   mean_inh:     -0.15976347
+   mean_inp:     1.6104721
+   mean_out:     1.6156342
+   var_exc:     0.035750903
+   var_inh:     0.035112184
+   var_inp:     0.8642543
+   var_out:     0.8631106
